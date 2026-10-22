@@ -293,12 +293,13 @@
 
 ### 语言版本与文件 / Language versions & files
 
-本文所有语言版本均以 **Markdown 源文件**形式存放在本仓库根目录，可直接在线阅读、下载、转载与分发（转载条款见 [LICENSE](LICENSE)）。配图统一存放于 [`images/`](images/)。
+本文所有语言版本均以 **Markdown 源文件**形式存放在本仓库根目录，可直接在线阅读、下载、转载与分发（转载条款见 [LICENSE](LICENSE)）。配图统一存放于 [`images/`](images/)；作者手写原稿（未经编辑的原始稿）存于 [`raw/`](raw/)，供对照与溯源。
 
 | 语言 | 文件 | 在线阅读 | 直接下载 | 状态 |
 |---|---|---|---|---|
 | 简体中文（原文） | [`README.md`](README.md) | [查看](README.md) | [下载 .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.md) | ✅ 已发布 v1.3 |
 | English | [`README.en.md`](README.en.md) | [View](README.en.md) | [Download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.en.md) | ✅ 已发布 v1.3 |
+| 作者手写原稿（raw） | [`raw/疑似心梗与心脏骤停：普通人的现场应对操作手册 v1.3.md`](raw/疑似心梗与心脏骤停：普通人的现场应对操作手册%20v1.3.md) | [查看](https://github.com/shangshuo/cardiac-emergency-field-manual/blob/main/raw/%E7%96%91%E4%BC%BC%E5%BF%83%E6%A2%97%E4%B8%8E%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%EF%BC%9A%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%8E%B0%E5%9C%BA%E5%BA%94%E5%AF%B9%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C%20v1.3.md) | [下载 .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/raw/%E7%96%91%E4%BC%BC%E5%BF%83%E6%A2%97%E4%B8%8E%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%EF%BC%9A%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%8E%B0%E5%9C%BA%E5%BA%94%E5%AF%B9%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C%20v1.3.md) | ✅ v1.3 未编辑原始稿 |
 | Español | `README.es.md` | — | — | ⏳ 待翻译 |
 | Français | `README.fr.md` | — | — | ⏳ 待翻译 |
 | Deutsch | `README.de.md` | — | — | ⏳ 待翻译 |

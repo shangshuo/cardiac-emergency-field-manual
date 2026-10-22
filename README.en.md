@@ -325,12 +325,13 @@ Finally, my wishes for you and those you love:
 
 ### Language versions & files
 
-Every language version lives in this repository as a plain **Markdown source file**, so anyone can read it online, download it, repost it or redistribute it (see [LICENSE](LICENSE) for the terms). Illustrations are kept in [`images/`](images/).
+Every language version lives in this repository as a plain **Markdown source file**, so anyone can read it online, download it, repost it or redistribute it (see [LICENSE](LICENSE) for the terms). Illustrations are kept in [`images/`](images/), and the author's handwritten draft (unedited, as originally written) is kept in [`raw/`](raw/) for comparison and provenance.
 
 | Language | File | Read online | Direct download | Status |
 |---|---|---|---|---|
 | 简体中文 (original) | [`README.md`](README.md) | [查看](README.md) | [Download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.md) | ✅ v1.3 released |
 | English | [`README.en.md`](README.en.md) | [View](README.en.md) | [Download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.en.md) | ✅ v1.3 released |
+| Author's handwritten draft (raw) | [`raw/疑似心梗与心脏骤停…v1.3.md`](raw/疑似心梗与心脏骤停：普通人的现场应对操作手册%20v1.3.md) | [View](https://github.com/shangshuo/cardiac-emergency-field-manual/blob/main/raw/%E7%96%91%E4%BC%BC%E5%BF%83%E6%A2%97%E4%B8%8E%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%EF%BC%9A%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%8E%B0%E5%9C%BA%E5%BA%94%E5%AF%B9%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C%20v1.3.md) | [Download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/raw/%E7%96%91%E4%BC%BC%E5%BF%83%E6%A2%97%E4%B8%8E%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%EF%BC%9A%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%8E%B0%E5%9C%BA%E5%BA%94%E5%AF%B9%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C%20v1.3.md) | ✅ v1.3, unedited draft |
 | Español | `README.es.md` | — | — | ⏳ planned |
 | Français | `README.fr.md` | — | — | ⏳ planned |
 | Deutsch | `README.de.md` | — | — | ⏳ planned |
