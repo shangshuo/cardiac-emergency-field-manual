@@ -1,6 +1,12 @@
 # Suspected Heart Attack and Cardiac Arrest: A Layperson's Field Manual v1.3
 
-> [中文版 / Chinese version (original): README.md](README.md)
+[简体中文](README.md) ｜ **English** ｜ Español · Français · Deutsch (planned)
+
+> **Version v1.3** · 2026-10-22 · This is a **living document**: it will keep being revised and updated as medicine, clinical guidelines and the evidence evolve.
+>
+> The Chinese original was first published by the author 顾眄 on the WeChat Official Account "自救者公社" (Self-Rescuers' Commune) on 2026-10-22. This English translation is provided so that more people can use it.
+>
+> Open-source Markdown document — read it online, download it, or repost it freely: [view](README.en.md) ｜ [download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.en.md)
 
 > [!WARNING]
 > **READ THIS FIRST — EMERGENCY NUMBERS IN THIS DOCUMENT ARE FOR MAINLAND CHINA**
@@ -90,7 +96,7 @@
 7. Measure your blood pressure
    If you are conscious, you are sure help is on the way, your symptoms are not getting worse, and a blood pressure monitor is within reach, you can measure your own blood pressure at this stage:
 
-   > *(In the original WeChat article, an illustration of the correct posture for measuring blood pressure appears here.)*
+   ![Blood pressure measurement posture: upper arm in the top panel, lower limb (ankle) in the bottom panel; the cuff must sit level with the heart](images/blood-pressure-measurement.png)
 
    - When measuring, move from the **right lateral position** back to a semi-recumbent position (upper body resting against the headboard or sofa back, legs kept flat and supported on the bed or sofa), and do not cross your legs;
    - Pay attention to cuff position: it should be level with your heart;
@@ -152,14 +158,15 @@ From here on, the person affected is called the **patient**, and the other perso
      The standard depth is **5 cm**, roughly the combined height of an adult woman's **index + middle + ring fingers** held together, or an adult man's **index + middle finger plus half of the ring finger**. Compressing to this depth takes real force, and it may well fracture ribs or the sternum (reported in up to 78% of cases) — but life comes first. Even if you hear what sounds like a fracture, keep compressing. Never stop.
    - **Rescue breaths**
      As noted, the standard is 2 rescue breaths after every 30 compressions: open the patient's mouth, take a large breath and blow into the patient's mouth. If you are uncomfortable with direct contact and have tissue or disinfectant wipes at hand, place one over the patient's mouth and blow through it. The detail here: do not inhale into your lungs and then exhale — just hold air in your mouth and blow it directly into the patient's mouth. If you have one of the 1000 ml portable oxygen cans mentioned earlier, holding it down and spraying into the patient's mouth is even better. If you really are not confident or it is impractical, you can **skip rescue breaths** entirely — just keep up standard chest compressions.
+   ![Adult CPR hand position: the heel of one hand on the lower half of the sternum, the other hand gripping it to add force](images/cpr-hand-position.jpg)
+
    - **Hand position**
      Refer to the illustration above. For adult CPR compressions, the heel of one hand is the main point of force, placed over the lower part of the sternum; the other hand grips the hand underneath to add supporting force and help reach adequate depth. For a child, an adult's single palm may be too large — especially an adult man's — so depending on the child's size you may compress with **three fingers of one hand (index, middle and ring finger) together**.
 
-     > *(In the original WeChat article, an illustration of the adult CPR hand position appears here.)*
    - **Body posture**
      The correct standard is arms straight. To reach the required depth and keep up the rate, push down using the weight of your whole body: 2 compressions per second, 5 cm deep. This is close to anaerobic exercise. An ordinary person pushing down with bent arms will lose arm strength within a few minutes, so remember the key point: **push down using the strength of your whole body**. This is also why you should have called others for help earlier — ordinary people rarely have the endurance to keep compressing, so you need at least 2 people taking turns to keep the CPR effective.
 
-     > *(In the original WeChat article, an illustration of the CPR body posture appears here.)*
+     ![CPR body posture: arms straight, pressing vertically down using the weight of the whole body](images/cpr-posture.png)
    - **How long to compress**
      Keep going, without stopping, until the patient's heartbeat returns or the ambulance crew arrives. Depending on who is actually on scene, it is recommended to **switch the compressor every 2 minutes**. If an AED has been obtained before the crew arrives, do 2 minutes of CPR first, then let the AED analyze. If the AED advises that a shock is not appropriate, abandon the AED at once and keep compressing. If the AED advises that defibrillation (a shock) is possible, deliver it; if the patient still has no heartbeat afterwards, remove the AED pads and **continue CPR compressions** — do not stop. That is:
      (1) Only one family member: CPR must not stop. Continue at a rhythm of **30 seconds of compressions + 2 rescue breaths** until the patient's heartbeat returns, the ambulance crew arrives, or support arrives (with or without an AED);
@@ -313,3 +320,21 @@ Finally, my wishes for you and those you love:
 >
 > What does not kill us makes us stronger.
 > *What doesn't kill you, only makes you stronger*
+
+---
+
+### Language versions & files
+
+Every language version lives in this repository as a plain **Markdown source file**, so anyone can read it online, download it, repost it or redistribute it (see [LICENSE](LICENSE) for the terms). Illustrations are kept in [`images/`](images/).
+
+| Language | File | Read online | Direct download | Status |
+|---|---|---|---|---|
+| 简体中文 (original) | [`README.md`](README.md) | [查看](README.md) | [Download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.md) | ✅ v1.3 released |
+| English | [`README.en.md`](README.en.md) | [View](README.en.md) | [Download .md](https://raw.githubusercontent.com/shangshuo/cardiac-emergency-field-manual/main/README.en.md) | ✅ v1.3 released |
+| Español | `README.es.md` | — | — | ⏳ planned |
+| Français | `README.fr.md` | — | — | ⏳ planned |
+| Deutsch | `README.de.md` | — | — | ⏳ planned |
+
+To add a language, copy one of these files, name it `README.<language-code>.md` (e.g. `README.es.md`), and turn the corresponding entry in the language bar at the top into a link. Translations must keep the original version number and disclaimer, and any explanatory additions must be clearly marked as translator's notes.
+
+**Version & updates:** the current version is **v1.3 (2026-10-22)**. This is a living document — it will be revised as medicine, clinical guidelines and the evidence evolve. All language versions are updated together and share the same version number.
