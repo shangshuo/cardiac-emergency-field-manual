@@ -1,0 +1,62 @@
+LICENSE / 授权条款
+==================
+
+本文作者以如下条款发布本仓库中的文档内容（README.md 中文原文，及 README.en.md 英文译文）。
+以下条款取自原文作者在本仓库文档内明示的版权声明，并附医学免责声明。
+
+The author publishes the documents in this repository (README.md, the original Chinese text,
+and README.en.md, the English translation) under the following terms. These terms are taken
+from the copyright notice stated by the author inside the documents themselves, together with
+the accompanying medical disclaimer.
+
+
+一、版权声明 / Copyright Notice
+-------------------------------
+
+任何人或机构可根据自身或读者群需要直接转载或发布，且无需额外申请、标注出处或注明原作者，
+但不得更改文章内容；如有任何争议或疑问，请参考前述免责声明。
+
+Any person or organization may reproduce or publish this text directly, as needed for
+themselves or their audience, without requesting permission, citing the source, or naming
+the original author — provided the content is not altered. For any dispute or question,
+refer to the disclaimer below.
+
+要点 / In short:
+
+- ✅ 允许：自由阅读、复制、转载、再发布（含商业与非商业用途）/ Free to read, copy,
+  reproduce and republish, commercially or not.
+- ✅ 无需：申请许可、标注出处、注明原作者 / No permission, attribution or author credit
+  required.
+- ❌ 禁止：更改文章内容 / The content must not be altered.
+  （英文版中明确标注为 "[Translator's note]" 的译者注属于附加说明，不属于对原文的更改。
+   Translator's notes explicitly marked as "[Translator's note]" in the English version are
+   additions, not alterations of the original text.）
+
+
+二、免责声明 / Medical Disclaimer
+--------------------------------
+
+本文主要来自于本人经验与思考，旨在为存在相似问题的他人提供有益的信息、建议及心理支持；
+文章中的信息和建议仅供参考，不构成医学建议，也也不应被视为替代专业医疗意见；任何人在参考
+或应用本文内容时，应自行判断并承担可能的风险；本文作者不对本文内容的准确性、完整性、适用性
+或有效性承担任何责任；任何因使用或依赖本文内容而导致的损失、伤害或不利后果，均由读者自行
+承担，与本文作者无关；如果您有任何疑问或需要医疗帮助，请立即前往正规医院或联系您的家人
+与医生，不要因阅读本文而忽略或延迟寻求专业的医疗帮助。
+
+This text is drawn mainly from the author's own experience and reflection. It is intended to
+provide useful information, suggestions and psychological support to others facing similar
+problems. The information and suggestions are for reference only; they do not constitute
+medical advice and should not be regarded as a substitute for professional medical opinion.
+Anyone who refers to or applies this content must judge for themselves and accept any
+resulting risk. The author accepts no responsibility for the accuracy, completeness,
+applicability or effectiveness of the content. Any loss, injury or adverse consequence
+arising from the use of or reliance on this content is borne solely by the reader, not by the
+author. If you have any questions or need medical help, go to a qualified hospital
+immediately or contact your family and doctor; do not let reading this article cause you to
+ignore or delay seeking professional medical care.
+
+**紧急情况下，请优先拨打你所在国家或地区的急救电话。**
+**In an emergency, always call your local emergency number first.**
+（中国大陆：医疗急救 120、报警 110；其他国家或地区请替换为当地号码，详见 README.en.md 开头
+的对照表。In mainland China: 120 for ambulance/EMS, 110 for police. Elsewhere, use your local
+numbers — see the table at the top of README.en.md.）
